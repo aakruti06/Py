@@ -1,0 +1,5 @@
+enter
+
+testing "upload file" to Cloudshell
+
+exit
