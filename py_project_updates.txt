@@ -12,5 +12,16 @@ py basics projects
 	
 ----------------------------------------------------------------------------
 
-py set,list - projects
-
+py set,list,dict,tuple - projects
+	1. student marks manager
+	2. word frequency
+	3. remove duplicates
+	4. unique words finder
+	5. common elements
+	6. shopping cart
+	7. tuple unpacking
+	8. contact book
+	9. max in a list
+	10. group words by length
+	
+===================================================================
